@@ -1,6 +1,9 @@
 node_modules
 .env
 encrypted.json
+package-lock.json
+package.json
+yarn.lock
 
 # Hardhat files
 /cache

@@ -11,7 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-OR
+OR (In case of yarn package manager)
 
 ```shell
 yarn hardhat help
