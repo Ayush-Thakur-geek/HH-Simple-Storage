@@ -8,6 +8,9 @@ yarn.lock
 # Hardhat files
 /cache
 /artifacts
+gas-report.txt
+coverage
+coverage.json
 
 # TypeChain files
 /typechain
